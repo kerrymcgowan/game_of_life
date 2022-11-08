@@ -1,2 +1,2 @@
 # game_of_life
-Solving Conway's Game of Life in Python!
+My solution to Conway's Game of Life in Python! See the game rules [here](https://playgameoflife.com/).
